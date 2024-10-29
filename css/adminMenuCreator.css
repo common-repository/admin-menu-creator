@@ -1,0 +1,97 @@
+
+/**
+* Author: Pixel to Web
+* Author URI: http://www.pixeltoweb.com
+*/
+.errormessage
+{
+    color:#ff0000;
+    font-weight:bold;
+}
+.textbox{ background-color: hsl(0, 0%, 100%);
+    font-size: 1.7em;
+    height: 1.7em;
+    line-height: 100%;
+    margin: 0;
+    outline: 0 none;
+    padding: 3px 8px;
+    width: 100%;
+    resize: none;
+}
+.textareabox{ background-color: hsl(0, 0%, 100%);
+    font-size: 1em;
+    height: 8.5em;
+    line-height: 100%;
+    margin: 0;
+    outline: 0 none;
+    padding: 3px 8px;
+    width: 100%;
+    border: 1px solid #ddd;
+    resize: none;
+}
+.pricegrid
+{
+    width:100%;
+    float:left;
+    margin-top:10px;
+}
+.gridhead
+{
+    width:98%;
+    float:left;
+    line-height: 36px;
+}
+.gridbody
+{
+    width:99%;
+    float:left;
+    line-height: 36px;
+}
+.locationbox
+{
+     border-bottom: 1px solid #dddddd;
+    float: left;
+    padding: 6px 0;
+    width: 22%;
+}
+.pricegridcontent #titlediv {
+    position: static;
+}
+.pricegrid #titlewrap {
+    border: 1px solid #dddddd !important;
+    float: left;
+    padding: 1% 2% !important;
+    width: 96%;
+}
+
+.pricegrid #titlewrap select {
+    width: 100%;
+    
+}
+.locationbox.zipcode {
+    width: 12%;
+}
+.locationbox input, select {
+    padding: 7px 5px;
+}
+.locationbox.lastselct {
+    margin: 2px 0;
+}
+.gridbody:last-child .locationbox {
+    border: none;
+}
+.scroll-bar {
+    float: left;
+    max-height: 425px;
+    overflow-y: scroll;
+    width: 100%;
+}
+.borderpricegrid 
+{ 
+  border-color: #ff0000!important; 
+  border-width:1px; 
+  border-style:solid; 
+}
+.wp-menu-image img{
+    width:20px ;
+}

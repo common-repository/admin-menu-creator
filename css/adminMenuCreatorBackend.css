@@ -1,0 +1,8 @@
+#wpcontent, #wpfooter { background-color: #fff;}
+.top-title { font-size: 25px; float: left; width: 100%;}
+.top-title h2 { font-size: 25px;}
+.plugins-des h4 {font-size: 14px;margin: 0;}
+.plugins-des h5 {font-size: 14px;margin: 13px 0 0;}
+.plugins-des ul {list-style: outside none disc; padding-left: 15px;}
+.plugins-des h6 {font-size: 15px;margin: 5px 0;}
+.plugins-des p { margin: 0 0 10px;}
